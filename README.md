@@ -5,3 +5,8 @@
 <p>یه وب‌سرور http که از صفر با گولنگ توسعه داده می‌شه.</p>
 
 <a href="https://github.com/the-pesar/htte">لینک مخزن</a>
+
+<h2 dir="rtl">V-OTP</h2>
+<p>یک کامپوننت لایبرری برای Vue با هدف ارائه کامپوننت ورودی برای پسورد یکبار مصرف.</p>
+
+<a href="https://github.com/Saman-Safaei-Dev/v-otp">لینک مخزن</a>
