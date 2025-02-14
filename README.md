@@ -17,6 +17,11 @@
 
 <a href="https://github.com/shahriaarrr/tasky">لینک مخزن</a>
 
+<h2 dir="rtl">BoxMovie</h2>
+<p>وب اپلیکیشن SPA / PWA با هدف تماشای فیلم و سریال زیرنویس بدون سانسور و رایگان !</p>
+
+<a href="https://github.com/BoxMovie/BoxMovie.github.io">لینک مخزن</a> | <a href="https://boxmovie.github.io">لینک سایت</a>
+
 <h2 dir="rtl">Chat Guard</h2>
 <p>چت گارد یک افزونه مرورگره که امکان این رو به شما میده که بتونید داخل هر پیام رسانی تحت وب به صورت end to end چت کنید و از اطلاعاتتون حفاظت کنید.</p>
 
