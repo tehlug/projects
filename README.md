@@ -19,4 +19,4 @@
 <h2 dir="rtl">BoxMovie</h2>
 <p>وب اپلیکیشن SPA / PWA با هدف تماشای فیلم و سریال زیرنویس بدون سانسور و رایگان !</p>
 
-<a href="https://github.com/BoxMovie/BoxMovie.github.io">لینک مخزن</a>
+<a href="https://github.com/BoxMovie/BoxMovie.github.io">لینک مخزن</a> | <a href="https://boxmovie.github.io">لینک سایت</a>
