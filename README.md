@@ -42,4 +42,5 @@
 
 <h2 dir="rtl">squid_game </h2>
 <p>درحال ایجاد و توسعه بازی اسکوییدگیم با ریکت و نکست هستم امیدوارم به من تو این کار کمک کنین</p>
-<a dir="rtl" href="https://github.com/mh-morowati/squid_game">لینک مخزن</a>
+
+<a href="https://github.com/mh-morowati/squid_game">لینک مخزن</a>
