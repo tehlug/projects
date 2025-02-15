@@ -1,4 +1,3 @@
-import os
 import re
 
 def parse_project_blocks(content):
