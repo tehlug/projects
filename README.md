@@ -89,3 +89,8 @@
 <p dir="rtl">تجربهٔ مرور ناشناس بی‌دردسر با کاربراتور، سپر محرمانگی بین‌افزاره‌ای. ساخته شده برای گنو/لینوکس با پکپارچگی گنوم و قدرت گرفته از تور.</p>
 
 <a href="https://framagit.org/tractor/carburetor">پیوند مخزن</a> | <a href="https://flathub.org/fa/apps/io.frama.tractor.carburetor">پیوند پایگاه وب</a>
+
+<h2 dir="rtl">System Cooler Daemon</h2>
+<p dir="rtl">این برنامه برای نظارت بر دمای سیستم و تنظیم عامل خنک کننده بر اساس آن طراحی شده است.</p>
+
+<a href="https://github.com/LogicCavalier/SystemCooler.git">پیوند مخزن</a>
