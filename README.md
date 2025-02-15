@@ -78,3 +78,13 @@
 
 
 <a href="https://github.com/widgetify-app/">لینک مخزن</a> | <a href="https://www.widgetify.ir/">لینک سایت</a>
+
+
+<h2 dir="rtl">DNS Changer</h2>
+<p dir="rtl">
+یک نرم‌افزار متن‌باز با بیش از 50K یوزر فعال است که با استفاده از آن، کاربران می‌توانند با سادگی تنظیمات DNS خود را تغییر دهند و به این ترتیب، از دسترسی به اینترنت با سرعت و کارایی بالاتری برخوردار شوند.
+ویندوز، لینوکس، مک
+</p>
+
+
+<a href="https://github.com/DnsChanger">لینک مخزن</a> | <a href="https://dnschanger.github.io">لینک سایت</a>
