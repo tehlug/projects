@@ -40,6 +40,6 @@
 
 <a href="https://github.com/mostafa-kheibary/xCleaner">لینک مخزن</a>
 
-<h2>squid_game </h2>
+<h2 dir="rtl">squid_game </h2>
 <p>درحال ایجاد و توسعه بازی اسکوییدگیم با ریکت و نکست هستم امیدوارم به من تو این کار کمک کنین</p>
 <a href="https://github.com/mh-morowati/squid_game">لینک مخزن</a>
