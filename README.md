@@ -9,6 +9,12 @@
 کارهٔ وب SPA/PWA با هدف تماشای رایگان فیلم و سریال با زیرنویس و بدون سانسور
 
 [پیوند مخزن](https://github.com/BoxMovie/BoxMovie.github.io) | [پیوند پایگاه وب](https://boxmovie.github.io)
+
+## Carburetor
+تجربهٔ مرور ناشناس بی‌دردسر با کاربراتور، سپر محرمانگی بین‌افزاره‌ای. ساخته شده برای گنو/لینوکس با پکپارچگی گنوم و قدرت گرفته از تور.
+
+[پیوند مخزن](https://framagit.org/tractor/carburetor) | [پیوند پایگاه وب](https://flathub.org/fa/apps/io.frama.tractor.carburetor)
+
 ## Chat Guard
 افزونه‌ای برای مرورگرها که امکان حفاظت از اطّلاعات را با رمزنگاری سرتاسری گپ‌ها در هر پیام رسان تحت وبی به کاربر می‌دهد.
 
@@ -55,7 +61,9 @@
 [پیوند مخزن](https://github.com/Saman-Safaei-Dev/v-otp)
 ## Widgetify
 برنامهٔ میزکار (ویندوز، گنو/لینوکس و مک) و وب (PWA) با سیاهه‌ای از ابزارک‌های کاربردی مانند قیمت ارزها(رمزارزها، طلا، دلار و…)، وضعیت آب و هوا با هوش مصنوعی، تقویم و…
+
 [پیوند مخزن](https://github.com/widgetify-app/) | [پیوند پایگاه وب](https://www.widgetify.ir/)
 ## Xcleaner
 افزونهٔ مرورگر کروم با امکان پالایش صفحهٔ X (توییتر) بر اساس محتوای نام کاربران.
+
 [پیوند مخزن](https://github.com/mostafa-kheibary/xCleaner)
