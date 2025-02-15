@@ -1,5 +1,4 @@
-name: Sort Projects by Stars
-
+name: Auto format README.md 
 on:
   push:
     branches:
@@ -25,16 +24,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyGithub requests
 
-      - name: Sort projects by stars
+      - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python .github/scripts/sort_projects.py
+          python .github/scripts/format_projects.py
           
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --cached --quiet || git commit -m "🤖 Sort projects by stars"
+          git diff --cached --quiet || git commit -m "🤖 Format README.md"
           git push
