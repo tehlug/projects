@@ -75,7 +75,7 @@
 ویجتی‌فای یه اپلیکیشن تحت دسکتاپ (ویندوز،لینوکس،مک) و وب (PWA) هست. که توی خودی لیستی از ویجت های کاربردی رو مثل قیمت ارزها(رمزارزها، طلا، دلار و...)، وضعیت آب و هوا با هوش مصنوعی، تقویم و ... 
 </p>
 
-<a href="https://github.com/widgetify-app/">لینک مخزن</a> | <a href="https://www.widgetify.ir/">لینک سایت</a>
+<a href="https://github.com/widgetify-app/widgetify-pwa">لینک مخزن</a> | <a href="https://www.widgetify.ir/">لینک سایت</a>
 
 <h2 dir="rtl">DNS Changer</h2>
 <p dir="rtl">
@@ -83,7 +83,7 @@
 ویندوز، لینوکس، مک
 </p>
 
-<a href="https://github.com/DnsChanger">لینک مخزن</a> | <a href="https://dnschanger.github.io">لینک سایت</a>
+<a href="https://github.com/DnsChanger/dnschanger-desktop">لینک مخزن</a> | <a href="https://dnschanger.github.io">لینک سایت</a>
 
 <h2 dir="rtl">Carburetor</h2>
 <p dir="rtl">تجربهٔ مرور ناشناس بی‌دردسر با کاربراتور، سپر محرمانگی بین‌افزاره‌ای. ساخته شده برای گنو/لینوکس با پکپارچگی گنوم و قدرت گرفته از تور.</p>
