@@ -147,5 +147,10 @@
       <td>(پروژه‌ی آموزشی تولید تصویر امنیتی (کپچا) با فونت نستعلیق فارسی (انجام پردازش تصویر بدون استفاده از کتاب‌خانه‌های آماده</td>
       <td><a href="https://github.com/KhassTeam/Persian-CAPTCHA">پیوند مخزن</a></td>
     </tr>
+    <tr>
+      <td>Persian DateTime</td>
+      <td>یک کتابخانهٔ سی‌شارپ برای کار با تقویم‌های شمسی و هجری قمری به سادگی کلاس DateTime، شامل امکانات گسترده برای مدیریت و تبدیل تاریخ‌ها در پروژه‌های NET.</td>
+      <td><a href="https://github.com/Mds92/MD.PersianDateTime">پیوند مخزن</a></td>
+    </tr>
   </tbody>
 </table>
