@@ -102,5 +102,50 @@
       <td>مجموعه ابزار های توسعه داده شده برای یافتن پر سرعت ترین راه دور زدن تحریم های اینترنتی ایران</td>
       <td><a href="https://github.com/403unlocker">پیوند مخزن</a> | <a href="https://403unlocker.ir/">پیوند پایگاه وب</a></td>
     </tr>
+    <tr>
+      <td>Text to Commit History</td>
+      <td>یک متن بزرگ به رنگ سبز در تاریخچه‌ی کامیت‌های گیت‌هاب خود بنویسید! (پروژه‌ای برای سرگرمی)</td>
+      <td><a href="https://github.com/erfaniaa/text-to-commit-history">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>codes2pdf</td>
+      <td>به آسانی از روی کدهای خود یک کتابچه‌ی قابل چاپ کردن و خوانا بسازید.</td>
+      <td><a href="https://github.com/erfaniaa/codes2pdf">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Binance Futures Trading Bot</td>
+      <td>بات معامله‌گر رمزارز در صرافی بایننس</td>
+      <td><a href="https://github.com/erfaniaa/binance-futures-trading-bot">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Crypto Trading Strategy Backtester</td>
+      <td>ابزاری برای شبیه‌سازی و آزمایش الگوریتم‌های معامله‌گری رمزارز</td>
+      <td><a href="https://github.com/erfaniaa/crypto-trading-strategy-backtester">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Thatcher Effect Dataset Generator</td>
+      <td>پروژه‌ای برای تولید تصاویر دارای خطای دید از روی عکس چهره‌ی انسان‌ها</td>
+      <td><a href="https://github.com/Erfaniaa/thatcher-effect-dataset-generator">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Competitive Programming</td>
+      <td>مجموعه‌ای از منابع و کتاب‌های مربوط به طراحی الگوریتم و مسابقات برنامه‌نویسی و المپیاد کامپیوتر</td>
+      <td><a href="https://github.com/Erfaniaa/competitive-programming">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Persian Digits Recogtinion</td>
+      <td>تشخیص اعداد فارسی با استفاده از یادگیری عمیق</td>
+      <td><a href="https://github.com/Erfaniaa/persian-digits-recognition">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Persian OCR</td>
+      <td>پروژه‌ی آموزشی تشخیص حروف فارسی (انجام پردازش تصویر و یادگیری عمیق بدون استفاده از کتاب‌خانه‌های آماده)</td>
+      <td><a href="https://github.com/Erfaniaa/Persian-OCR">پیوند مخزن</a></td>
+    </tr>
+    <tr>
+      <td>Persian CAPTCHA</td>
+      <td>(پروژه‌ی آموزشی تولید تصویر امنیتی (کپچا) با فونت نستعلیق فارسی (انجام پردازش تصویر بدون استفاده از کتاب‌خانه‌های آماده</td>
+      <td><a href="https://github.com/KhassTeam/Persian-CAPTCHA">پیوند مخزن</a></td>
+    </tr>
   </tbody>
 </table>
