@@ -113,6 +113,11 @@
       <td><a href="https://github.com/erfaniaa/codes2pdf">پیوند مخزن</a></td>
     </tr>
     <tr>
+      <td>Payman</td>
+      <td>پیمان یک کتابخانه‌ی پایتون برای اتصال به درگاه‌های پرداخت ایرانی مثل زرین‌پال و زیباله.</td>
+      <td><a href="https://github.com/irvaniamirali/payman">پیوند مخزن</a></td>
+    </tr>
+    <tr>
       <td>Binance Futures Trading Bot</td>
       <td>بات معامله‌گر رمزارز در صرافی بایننس</td>
       <td><a href="https://github.com/erfaniaa/binance-futures-trading-bot">پیوند مخزن</a></td>
