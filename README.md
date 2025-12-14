@@ -152,5 +152,10 @@
       <td>(پروژه‌ی آموزشی تولید تصویر امنیتی (کپچا) با فونت نستعلیق فارسی (انجام پردازش تصویر بدون استفاده از کتاب‌خانه‌های آماده</td>
       <td><a href="https://github.com/KhassTeam/Persian-CAPTCHA">پیوند مخزن</a></td>
     </tr>
+    <tr>
+      <td>dns-switcher</td>
+      <td>جابه‌جایی سریع بین DNS‌ های محبوب مثل Shecan، Radar، Electro، Google و Cloudflare - ایده‌آل برای کاهش تأخیر (latency)، عبور از محدودیت‌ها و افزایش پایداری اینترنت در ایران</td>
+      <td><a href="https://github.com/Linuxmaster14/dns-switcher">پیوند مخزن</a></td>
+    </tr>
   </tbody>
 </table>
