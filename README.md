@@ -28,6 +28,7 @@
 | System Cooler Daemon | ابزار پایش دمای سیستم و کنترل خنک‌کننده | [لینک مخزن](https://github.com/LogicCavalier/SystemCooler.git) |
 | 403unlocker | مجموعه ابزارهای عبور هوشمند از محدودیت‌های اینترنتی ایران | [لینک مخزن](https://github.com/403unlocker) · [سایت](https://403unlocker.ir/) |
 | dns-switcher | جابه‌جایی سریع بین DNSهای محبوب مثل Shecan، Radar، Electro، Google و Cloudflare؛ مناسب برای کاهش تأخیر و افزایش پایداری اینترنت | [لینک مخزن](https://github.com/Linuxmaster14/dns-switcher) |
+| SSH Pilot | یک مدیر اتصال اس‌اس‌اچ سبک با ترمینال یکپارچه و قابلیت انتقال فایل | [لینک مخزن](https://github.com/mfat/sshpilot) |
 
 
 ## مشارکت
