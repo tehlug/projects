@@ -30,6 +30,7 @@
 | dns-switcher | جابه‌جایی سریع بین DNSهای محبوب مثل Shecan، Radar، Electro، Google و Cloudflare؛ مناسب برای کاهش تأخیر و افزایش پایداری اینترنت | [لینک مخزن](https://github.com/Linuxmaster14/dns-switcher) |
 | SSH Pilot | یک مدیر اتصال اس‌اس‌اچ سبک با ترمینال یکپارچه و قابلیت انتقال فایل | [لینک مخزن](https://github.com/mfat/sshpilot) |
 | Mirava | یک ابزار مدیریت و مانیتورینگ سیستم‌ها با رابط کاربری ساده و قابلیت‌های پیشرفته | [لینک مخزن](https://github.com/GeeDook/mirava) |
+| DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 
 
 
