@@ -20,7 +20,7 @@
 | DeepSeek Desktop | اپلیکیشن دسکتاپ DeepSeek با Electron برای تعامل با مدل هوش مصنوعی | [لینک مخزن](https://github.com/code3-dev/deepseek-desktop) |
 | Bale Desktop | نسخهٔ دسکتاپ پیام‌رسان باله، توسعه‌یافته با Electron | [لینک مخزن](https://github.com/code3-dev/bale-desktop) |
 | SyntoraPHP | فریمورک PHP سبک و پرسرعت برای توسعهٔ API | [لینک مخزن](https://github.com/code3-dev/SyntoraPHP) |
-| Native IG | اپلیکیشن مدرن دانلود ویدیو از اینستاگرام با Next.js | [لینک مخزن](https://github.com/code3-dev/native-ig) |
+| Native IG | اپلیکیشن مدرن دانلود ویدیو از اینستاگرام با Next.js | [لینک مخزن](https:/ رپو وصل/github.com/code3-dev/native-ig) |
 | Client | کتابخانهٔ PHP برای انجام درخواست‌های HTTP با cURL | [لینک مخزن](https://github.com/httptools/Client) |
 | Widgetify | اپلیکیشن دسکتاپ و وب برای ویجت‌های کاربردی روزانه | [لینک مخزن](https://github.com/widgetify-app/) · [سایت](https://www.widgetify.ir/) |
 | DNS Changer | نرم‌افزار متن‌باز تغییر DNS با بیش از ۵۰ هزار کاربر فعال | [لینک مخزن](https://github.com/DnsChanger) · [سایت](https://dnschanger.github.io) |
@@ -32,6 +32,7 @@
 | Mirava | یک مجموعه‌ی جامع و سریع از میرورهای عمومی نرم‌افزاری و مخازن بسته‌های نرم‌افزاری داخل کشور ایران | [لینک مخزن](https://github.com/GeeDook/mirava) |
 | DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 | AR Touch | تعامل با نمایشگر های پیر دنیای واقعی از روی هوا | [لینک مخزن](https://github.com/erfansn/AR-Touch) |
+| ghostforward | یک اسکریپت ساده که به شما اجازه میدهد پیام گروه ها و کانال های تلگرام را به صورت اتوماتیک در کانال یا گروه شخصی خود ذخیره کنید | [لینک مخزن](https://github.com/pooulad/ghostforward) |
 | GajIn | ابزاری برای مدیریت راحت Secret و variables ها در GitHub Actions | [لینک مخزن](https://github.com/azolfagharj/gajin)
 | Text2Excel | یک برنامه گرافیکی با Python Tkinter برای جمع آوری داده ها از فایل متنی و قرار دادن در فایل Excel یا CSV با الگو های RegEx | [لینک مخزن](https://github.com/AmirAli1019/Text2Excel) |
 
