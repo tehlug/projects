@@ -32,6 +32,8 @@
 | Mirava | یک مجموعه‌ی جامع و سریع از میرورهای عمومی نرم‌افزاری و مخازن بسته‌های نرم‌افزاری داخل کشور ایران | [لینک مخزن](https://github.com/GeeDook/mirava) |
 | DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 | AR Touch | تعامل با نمایشگر های پیر دنیای واقعی از روی هوا | [لینک مخزن](https://github.com/erfansn/AR-Touch) |
+| AR Touch | یک SDK کامل به زبان Go برای مدیریت و انجام تمام عملیات بلاکچین ترون. | [لینک مخزن](https://github.com/mehdi124/tron-go-sdk) |
+| AR Touch | یک سرویس چت سریع، پایدار و مقیاس‌پذیر برای مدیریت ارتباطات در مقیاس بزرگ. | [لینک مخزن](https://github.com/mehdi124/chat-service) |
 
 
 
