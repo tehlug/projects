@@ -32,6 +32,7 @@
 | Mirava | یک مجموعه‌ی جامع و سریع از میرورهای عمومی نرم‌افزاری و مخازن بسته‌های نرم‌افزاری داخل کشور ایران | [لینک مخزن](https://github.com/GeeDook/mirava) |
 | DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 | AR Touch | تعامل با نمایشگر های پیر دنیای واقعی از روی هوا | [لینک مخزن](https://github.com/erfansn/AR-Touch) |
+| ghostforward | یک اسکریپت ساده که به شما اجازه میدهد پیام گروه ها و کانال های تلگرام را به صورت اتوماتیک در کانال یا گروه شخصی خود ذخیره کنید | [لینک مخزن](https://github.com/pooulad/ghostforward) |
 
 
 
