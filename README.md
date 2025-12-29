@@ -32,8 +32,8 @@
 | Mirava | یک مجموعه‌ی جامع و سریع از میرورهای عمومی نرم‌افزاری و مخازن بسته‌های نرم‌افزاری داخل کشور ایران | [لینک مخزن](https://github.com/GeeDook/mirava) |
 | DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 | AR Touch | تعامل با نمایشگر های پیر دنیای واقعی از روی هوا | [لینک مخزن](https://github.com/erfansn/AR-Touch) |
+| GajIn | ابزاری برای مدیریت راحت Secret و variables ها در GitHub Actions | [لینک مخزن](https://github.com/azolfagharj/gajin)
 | Text2Excel | یک برنامه گرافیکی با Python Tkinter برای جمع آوری داده ها از فایل متنی و قرار دادن در فایل Excel یا CSV با الگو های RegEx | [لینک مخزن](https://github.com/AmirAli1019/Text2Excel) |
-
 
 
 
