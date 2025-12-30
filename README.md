@@ -32,8 +32,8 @@
 | Mirava | یک مجموعه‌ی جامع و سریع از میرورهای عمومی نرم‌افزاری و مخازن بسته‌های نرم‌افزاری داخل کشور ایران | [لینک مخزن](https://github.com/GeeDook/mirava) |
 | DNSBL Checker | اسکریپت DNSBL Checker ابزاری سبک و سریع برای بررسی IP یا Subnet در لیست‌های سیاه DNSBL و ارسال هشدار فوری از طریق ایمیل و تلگرام در صورت بلاک شدن است. | [لینک مخزن](https://github.com/MrAriaNet/dnsbl-checker) |
 | AR Touch | تعامل با نمایشگر های پیر دنیای واقعی از روی هوا | [لینک مخزن](https://github.com/erfansn/AR-Touch) |
-| Tron-Go-Sdk  | یک SDK کامل به زبان Go برای مدیریت و انجام تمام عملیات بلاکچین ترون. | [لینک مخزن](https://github.com/mehdi124/tron-go-sdk) |
-| Chat-Service | یک سرویس چت سریع، پایدار و مقیاس‌پذیر برای مدیریت ارتباطات در مقیاس بزرگ. | [لینک مخزن](https://github.com/mehdi124/chat-service) |
+| Tron-Go-Sdk  | یک SDK کامل به زبان Go برای مدیریت و انجام تمام عملیات بلاکچین ترون | [لینک مخزن](https://github.com/mehdi124/tron-go-sdk) |
+| Chat-Service | یک سرویس چت سریع، پایدار و مقیاس‌پذیر برای مدیریت ارتباطات در مقیاس بزرگ | [لینک مخزن](https://github.com/mehdi124/chat-service) |
 | Ghostforward | یک اسکریپت ساده که به شما اجازه میدهد پیام گروه ها و کانال های تلگرام را به صورت اتوماتیک در کانال یا گروه شخصی خود ذخیره کنید | [لینک مخزن](https://github.com/pooulad/ghostforward) |
 | GajIn | ابزاری برای مدیریت راحت Secret و variables ها در GitHub Actions | [لینک مخزن](https://github.com/azolfagharj/gajin)
 | Text2Excel | یک برنامه گرافیکی با Python Tkinter برای جمع آوری داده ها از فایل متنی و قرار دادن در فایل Excel یا CSV با الگو های RegEx | [لینک مخزن](https://github.com/AmirAli1019/Text2Excel) |
