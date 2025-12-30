@@ -20,7 +20,7 @@
 | DeepSeek Desktop | اپلیکیشن دسکتاپ DeepSeek با Electron برای تعامل با مدل هوش مصنوعی | [لینک مخزن](https://github.com/code3-dev/deepseek-desktop) |
 | Bale Desktop | نسخهٔ دسکتاپ پیام‌رسان باله، توسعه‌یافته با Electron | [لینک مخزن](https://github.com/code3-dev/bale-desktop) |
 | SyntoraPHP | فریمورک PHP سبک و پرسرعت برای توسعهٔ API | [لینک مخزن](https://github.com/code3-dev/SyntoraPHP) |
-| Native IG | اپلیکیشن مدرن دانلود ویدیو از اینستاگرام با Next.js | [لینک مخزن](https:/ رپو وصل/github.com/code3-dev/native-ig) |
+| Native IG | اپلیکیشن مدرن دانلود ویدیو از اینستاگرام با Next.js | [لینک مخزن](https://github.com/code3-dev/native-ig) |
 | Client | کتابخانهٔ PHP برای انجام درخواست‌های HTTP با cURL | [لینک مخزن](https://github.com/httptools/Client) |
 | Widgetify | اپلیکیشن دسکتاپ و وب برای ویجت‌های کاربردی روزانه | [لینک مخزن](https://github.com/widgetify-app/) · [سایت](https://www.widgetify.ir/) |
 | DNS Changer | نرم‌افزار متن‌باز تغییر DNS با بیش از ۵۰ هزار کاربر فعال | [لینک مخزن](https://github.com/DnsChanger) · [سایت](https://dnschanger.github.io) |
