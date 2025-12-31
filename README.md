@@ -37,7 +37,7 @@
 | Ghostforward | یک اسکریپت ساده که به شما اجازه میدهد پیام گروه ها و کانال های تلگرام را به صورت اتوماتیک در کانال یا گروه شخصی خود ذخیره کنید | [لینک مخزن](https://github.com/pooulad/ghostforward) |
 | GajIn | ابزاری برای مدیریت راحت Secret و variables ها در GitHub Actions | [لینک مخزن](https://github.com/azolfagharj/gajin)
 | Text2Excel | یک برنامه گرافیکی با Python Tkinter برای جمع آوری داده ها از فایل متنی و قرار دادن در فایل Excel یا CSV با الگو های RegEx | [لینک مخزن](https://github.com/AmirAli1019/Text2Excel) |
-
+| Kamune | ارتباط امن بر بستر شبکه P2P با رمزگذاری کوانتومی | [لینک مخزن](https://github.com/kamune-org/kamune) |
 
 
 ## مشارکت
