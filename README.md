@@ -38,6 +38,9 @@
 | GajIn | ابزاری برای مدیریت راحت Secret و variables ها در GitHub Actions | [لینک مخزن](https://github.com/azolfagharj/gajin)
 | Text2Excel | یک برنامه گرافیکی با Python Tkinter برای جمع آوری داده ها از فایل متنی و قرار دادن در فایل Excel یا CSV با الگو های RegEx | [لینک مخزن](https://github.com/AmirAli1019/Text2Excel) |
 | Kamune | ارتباط امن بر بستر شبکه P2P با رمزگذاری کوانتومی | [لینک مخزن](https://github.com/kamune-org/kamune) |
+| v2ray-scraper | یه ابزار CLI برای جمع آوری خودکار کانفیگ های v2ray و MTProto از بیش از بیست کانال تلگرام | [لینک مخزن](https://github.com/AmirAli1019/v2ray-scraper) |
+
+
 
 
 ## مشارکت
