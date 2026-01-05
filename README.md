@@ -40,6 +40,7 @@
 | Kamune | ارتباط امن بر بستر شبکه P2P با رمزگذاری کوانتومی | [لینک مخزن](https://github.com/kamune-org/kamune) |
 | v2ray-scraper | یه ابزار CLI برای جمع آوری خودکار کانفیگ های v2ray و MTProto از بیش از بیست کانال تلگرام | [لینک مخزن](https://github.com/AmirAli1019/v2ray-scraper) |
 | IRAN Docker | بش اسکریپت ساده و قدرتمند برای استفاده از داکر در سرورهای ایران | [لینک مخزن](https://github.com/Linuxmaster14/iran-docker) |
+| FastClean | ابزار CLI برای ساخت سریع پروژه‌های FastAPI با معماری Clean، Docker و تولید خودکار CRUD | [لینک مخزن](https://github.com/Amirrdoustdar/fastclean) |
 
 
 
