@@ -41,7 +41,9 @@
 | v2ray-scraper | یه ابزار CLI برای جمع آوری خودکار کانفیگ های v2ray و MTProto از بیش از بیست کانال تلگرام | [لینک مخزن](https://github.com/AmirAli1019/v2ray-scraper) |
 | IRAN Docker | بش اسکریپت ساده و قدرتمند برای استفاده از داکر در سرورهای ایران | [لینک مخزن](https://github.com/Linuxmaster14/iran-docker) |
 | FastClean | ابزار CLI برای ساخت سریع پروژه‌های FastAPI با معماری Clean، Docker و تولید خودکار CRUD | [لینک مخزن](https://github.com/Amirrdoustdar/fastclean) |
-
+| TML | یک ابزار کامند لاین پرای پردازش TOML،  مثل jq اما برای TOML | [لینک مخزن](https://github.com/azolfagharj/tmq) |
+| Caddy Builder | یک گیت‌هاب اکشن آماده برای بیلد Caddy Server در پروژه های شما | [لینک مخزن](https://github.com/marketplace/actions/caddy-builder) |
+| Caddy Parspack IP | ماژول شناسایی CDN پارسپک برای Caddy Server | [لینک مخزن](https://github.com/azolfagharj/caddy_parspack_ip) |
 
 
 
