@@ -44,6 +44,7 @@
 | TMQ | یک ابزار کامند لاین پرای پردازش TOML،  مثل jq اما برای TOML | [لینک مخزن](https://github.com/azolfagharj/tmq) |
 | Caddy Builder | یک گیت‌هاب اکشن آماده برای بیلد Caddy Server در پروژه های شما | [لینک مخزن](https://github.com/marketplace/actions/caddy-builder) |
 | Caddy Parspack IP | ماژول شناسایی CDN پارسپک برای Caddy Server | [لینک مخزن](https://github.com/azolfagharj/caddy_parspack_ip) |
+lahzenama| قیمت لحظه‌ای طلا، نقره و دلار در وب و ساعت هوشمند | [لینک مخزن](https://github.com/erfuuan/lahzenama) |
 
 
 
