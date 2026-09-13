@@ -45,6 +45,7 @@
 | Caddy Builder | یک گیت‌هاب اکشن آماده برای بیلد Caddy Server در پروژه های شما | [لینک مخزن](https://github.com/marketplace/actions/caddy-builder) |
 | Caddy Parspack IP | ماژول شناسایی CDN پارسپک برای Caddy Server | [لینک مخزن](https://github.com/azolfagharj/caddy_parspack_ip) |
 | Lahzenama| قیمت لحظه‌ای طلا، نقره و دلار در وب و ساعت هوشمند | [لینک مخزن](https://github.com/erfuuan/lahzenama) |
+| Telegram Commander | بات تلگرام برای مدیریت سرور‌های لینوکسی  | [لینک مخزن](https://github.com/azolfagharj/telegram-commander) |
 
 
 
